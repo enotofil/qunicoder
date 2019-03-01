@@ -8,5 +8,6 @@ At first start downloads unicode data from [GitHub](https://github.com/unicode-t
 - requests
 
 **Screenshots:**
+
 ![Character map](png/qUnicoder01.png "Character map")
-![Search dialog](png/qUnicoder01.png "Search dialog")
+![Search dialog](png/qUnicoder02.png "Search dialog")
